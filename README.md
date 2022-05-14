@@ -20,7 +20,7 @@
 * MSE.
 
 ### 🐣 Baseline:
-* [Link](https://github.com/Sharrish/predict_thousand_facial_landmarks/tree/main/solution_notebooks) to the start code.
+* [Link](https://github.com/Sharrish/predict_thousand_facial_landmarks/tree/main/baseline) to the start code.
 
 ## ✅ Solution:
 
