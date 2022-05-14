@@ -1,0 +1,4 @@
+### 📚 Notebooks:
+* My main notebook. The ideas for the solution are indicated inside: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sharrish/predict_thousand_facial_landmarks/blob/main/solution_notebooks/facial-landmarks.ipynb)
+* A notebook with an example of visualization of key points: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sharrish/predict_thousand_facial_landmarks/blob/main/solution_notebooks/draw_color_landmarks.ipynb)
+* A notebook with an examples of augmentations from [Albumentations](https://albumentations.ai/): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sharrish/predict_thousand_facial_landmarks/tree/main/solution_notebooks)

@@ -17,17 +17,17 @@
 * **test:** 16,000 images
 
 ### 📈 Evaluation metric:
-* MSE
+* MSE.
 
 ### 🐣 Baseline:
-* Link to the start code.
+* [Link](https://github.com/Sharrish/predict_thousand_facial_landmarks/tree/main/solution_notebooks) to the start code.
 
 ## ✅ Solution:
 
 ### 📚 Notebooks:
-* My main notebook. The ideas for the solution are indicated inside:
-* A notebook with an example of visualization of key points:
-* A notebook with an examples of augmentations from [Albumentations](https://albumentations.ai/). 
+* My main notebook. The ideas for the solution are indicated inside: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sharrish/predict_thousand_facial_landmarks/blob/main/solution_notebooks/facial-landmarks.ipynb)
+* A notebook with an example of visualization of key points: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sharrish/predict_thousand_facial_landmarks/blob/main/solution_notebooks/draw_color_landmarks.ipynb)
+* A notebook with an examples of augmentations from [Albumentations](https://albumentations.ai/): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sharrish/predict_thousand_facial_landmarks/tree/main/solution_notebooks)
 
 ### ⚙️ Model:
 * I used an ensemble of models. The final `submit.csv` of the best models were averaged.
@@ -38,7 +38,11 @@
 
 ![img.png](images/my_place.png)
 
-### 🌠 Visualization of the model's work in the photos of my friends:
+### 🌠 Model's work:
+
+* Visualization of the model's work in the photos of my friends:
+
+
 ![](images/result_on_my_freinds_photos.png)
 
 
