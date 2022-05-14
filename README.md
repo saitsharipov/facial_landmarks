@@ -36,7 +36,7 @@
 ### 🏆 Result:
 10th of 66. Top 16%.
 
-![img.png](images/my_place.png)
+![img.png](images/my_result_on_leaderboard.png)
 
 ### 🌠 Model's work:
 
